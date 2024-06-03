@@ -50,7 +50,7 @@ Cela va dépendre de votre distribution, dans le doute reportez vous [ici](https
 ### 3. Configurer Prism Launcher
 
 1. Au premier lancement, Prism Launcher vous demandera de sélectionner un répertoire pour stocker les données des instances. Choisissez ou créez un dossier dédié.
-2. Ajoutez votre compte Minecraft en cliquant sur "Ajouter un compte" et en suivant les instructions pour vous connecter avec votre compte Mojang ou Microsoft.
+2. Ajoutez votre compte Minecraft en cliquant sur "Ajouter un compte" et en suivant les instructions pour vous connecter avec votre compte Microsoft.
 3. Allez faire un tour dans les paramètres pour vérifier vos options **Java**. Surtout la section "Memory" (pour l'allocation de la mémoire RAM) et le "Java Runtime" (version de **Java** qui va être utilisée).
 
 Pour l'allocation de la mémoire, je vous recommande d'avoir au moins 4 Go de RAM alouée à Minecraft. Pour cela, vous devez mettre `4096` MiB en "Maximum memory allocation". Pour la minimale, pas besoin d'y toucher.
