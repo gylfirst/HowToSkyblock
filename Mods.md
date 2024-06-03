@@ -31,6 +31,10 @@ Je vous donne une liste de mods que je recommande. Si vous ne savez pas ce qu'il
 > Pour les mods "Skyblock", vous aurez les liens pour les télécharger à jour avec la commande `/skyblock mods` dans le channel #bots du Discord.  
 > Pour les mods non "Skyblock", vous pouvez directement les télécharger depuis cette page. N'oubliez pas, vous voulez la version pour Minecraft FORGE 1.8.9 !
 
+> Pour les mods :  
+> Essential, Dungeons Guide, Not Enough Updates et Skyblock Addons  
+> Ils sont directement disponibles par l'option du launcher "Télécharger des mods" puis "Modrinth". Cela permet d'avoir les mises à jour automatiques.
+
 ## Étapes pour Installer les mods
 
 ### 1. Télécharger les mods
