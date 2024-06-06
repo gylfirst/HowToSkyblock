@@ -265,7 +265,7 @@ Si vous avez le moindre doutes sur un des options, passez sur le Discord.
 
 # Menu
 
-[Précédent - Installation et update des mods](./Game.md)
+[Précédent - Installation et update des mods](./Mods.md)
 
 ---
 [Sommaire](./README.md)
