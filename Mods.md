@@ -33,7 +33,11 @@ Je vous donne une liste de mods que je recommande. Si vous ne savez pas ce qu'il
 
 > Pour les mods :  
 > Essential, Dungeons Guide, Not Enough Updates et Skyblock Addons  
-> Ils sont directement disponibles par l'option du launcher "Télécharger des mods" puis "Modrinth". Cela permet d'avoir les mises à jour automatiques.
+> Ils sont directement disponibles par l'option du launcher "Télécharger des mods" puis "Modrinth".
+> Cela permet d'avoir les mises à jour en un clic dans le menu des mods de l'instance à l'aide du bouton "Vérifier les mises à jour".
+> Si des mods sont installés en dehors de ce menu, vous aurez une pop-up au moment de la vérification des mises à jour.
+> Celle-ci permet de chercher si le mod est disponible sur Modrinth ou CurseForge,
+> vous pouvez sélectionner "Tout passer" afin de ne pas en ajouter et de juste vérifier ceux qui ont été installé dans le menu du launcher.
 
 ## Étapes pour Installer les mods
 
