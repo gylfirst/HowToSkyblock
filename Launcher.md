@@ -9,7 +9,7 @@ Prism Launcher est un launcher Minecraft open-source, qui permet de gérer facil
 1. **Java** : Assurez-vous que Java est installé sur votre ordinateur. Minecraft nécessite Java pour fonctionner. Prenez une version `64 bits` pour votre ordinateur, sauf s'il a 32 ans. Vous pouvez la retrouver [ici](https://www.java.com/fr/download/manual.jsp).
 2. **Une Connexion Internet** : Évidemment, on ne va pas aller loin si vous n'avez pas Internet ! On se demande même comment vous êtes ici sans l'avoir...
 
-Pour la version de **Java**, il vous faut une des versions de Java 8. Cela est différent si vous compter jouer sur une version de Minecraft différente de la 1.8.9 (merci la foraging update...)
+Pour la version de **Java**, il vous faut une des versions de Java 8. Cela est différent si vous comptez jouer sur une version de Minecraft différente de la 1.8.9 (merci la foraging update...)
 
 ## Étapes pour Installer Prism Launcher
 
@@ -40,7 +40,7 @@ Pour la version de **Java**, il vous faut une des versions de Java 8. Cela est d
 
 > Seulement les élus utilisent ce divin système !
 
-Cela va dépendre de votre distribution, dans le doute reportez vous [ici](https://prismlauncher.org/download/linux/).
+Cela va dépendre de votre distribution. Dans le doute, reportez-vous [ici](https://prismlauncher.org/download/linux/).
 
 1. Ouvrez un terminal.
 2. Naviguez jusqu'au répertoire où vous avez téléchargé le fichier.
@@ -51,17 +51,17 @@ Cela va dépendre de votre distribution, dans le doute reportez vous [ici](https
 
 1. Au premier lancement, Prism Launcher vous demandera de sélectionner un répertoire pour stocker les données des instances. Choisissez ou créez un dossier dédié.
 2. Ajoutez votre compte Minecraft en cliquant sur "Ajouter un compte" et en suivant les instructions pour vous connecter avec votre compte Microsoft.
-3. Allez faire un tour dans les paramètres pour vérifier vos options **Java**. Surtout la section "Memory" (pour l'allocation de la mémoire RAM) et le "Java Runtime" (version de **Java** qui va être utilisée).
+3. Allez faire un tour dans les paramètres pour vérifier vos options **Java**. Surtout, la section "Memory" (pour l'allocation de la mémoire RAM) et le "Java Runtime" (version de **Java** qui va être utilisée).
 
 Pour l'allocation de la mémoire, je vous recommande d'avoir au moins 4 Go de RAM allouée à Minecraft. Pour cela, vous devez mettre `4096` MiB en "Maximum memory allocation". Pour la minimale, pas besoin d'y toucher.
 
 ---
 ### Choisir votre destinée
 
-Un première quête vous est donnée, vous devez choisir votre destinée :
+Une première quête vous est donnée, vous devez choisir votre destinée :
 - Passer par l'archive disponible sur le Discord dans le channel #informations (Instance de Zalko)  
 [Cliquer ici](#importer-larchive)
-- Suivre le tuto pour faire votre propre instance, et pouvoir vous débrouiller par la suite (**Fortement recommandé**)  
+- Suivre le tuto pour faire votre propre instance et pouvoir vous débrouiller par la suite (**fortement recommandé**)  
 [Cliquer ici](#créer-une-instance-pour-les-mods)
 
 ---
@@ -74,7 +74,7 @@ Une fois l'archive en votre possession, vous allez pouvoir suivre les étapes su
 
 1. Cliquez sur le bouton "Ajouter une Instance".
 2. Dans la fenêtre qui s'ouvre, sélectionnez "Importer" dans la liste à gauche.
-3. Cliquez sur le bouton "Parcourir" puis sélectionnez l'archive et cliquer sur "Ouvrir".
+3. Cliquez sur le bouton "Parcourir" puis sélectionnez l'archive et cliquez sur "Ouvrir".
 4. Donnez un nom à votre instance, par exemple "1.8.9 Skyblock".
 5. Cliquez sur le bouton "OK" pour créer l'instance.
 6. Lancez l'instance en la sélectionnant et appuyez sur le bouton "Lancer".
@@ -83,7 +83,7 @@ Et voilà ! Vous avez maintenant une instance pré-réglée prête à être util
 
 #### Créer une instance pour les mods
 
-> Je suis fier de vous ! Vous allez devenir des pro de Prism.
+> Je suis fier de vous ! Vous allez devenir des pros de Prism.
 
 Maintenant que vous avez installé Prism Launcher, vous pouvez créer une instance moddée de Minecraft en version 1.8.9. Voici comment faire :
 
@@ -94,7 +94,7 @@ Maintenant que vous avez installé Prism Launcher, vous pouvez créer une instan
 5. Cliquez sur le bouton "OK" pour créer votre instance.
 6. Lancez l'instance en la sélectionnant et appuyez sur le bouton "Lancer" pour télécharger les fichiers du jeu.
 
-Et voilà ! Vous avez maintenant une instance de Minecraft en version 1.8.9 prête à être utilisée.
+Et voilà ! Vous avez désormais une instance de Minecraft en version 1.8.9 prête à être utilisée.
 
 ---
 

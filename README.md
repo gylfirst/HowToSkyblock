@@ -2,7 +2,7 @@
 
 Si vous êtes nouveau, que vous ne savez plus comment installer Minecraft pour jouer au Skyblock, ou que vous ne savez pas comment mettre à jour vos mods, ce tuto est fait pour vous !
 
-Pour jouer au Skyblock d'Hypixel dans les meilleurs conditions, suivez ces étapes :
+Pour jouer au Skyblock d'Hypixel dans les meilleures conditions, suivez ces étapes :
 
 - [Installer Minecraft](Launcher.md)
 

@@ -24,7 +24,7 @@ Je vous conseille de régler vos options de Minecraft en général. On verra ens
    - Si vous avez correctement installé vos packs, ils devraient apparaître dans la liste.
    - Passer votre souris dessus et cliquer sur la flèche vers la droite.
    - Si le pack apparaît à droite, alors il est activé.
-   - Pour l'ordre, on met le "Dark UI" au dessus du pack custom !
+   - Pour l'ordre, on met le "Dark UI" au-dessus du pack custom !
    - Fermer le menu avec le bouton "Terminer".
 
 ## Configurer les mods
@@ -116,8 +116,7 @@ Pour entrer dans le menu de configuration du mods, il faut être connecté sur l
 - Activer `Party ready list`
 
 #### GUI Config
-
-Alors là, c'est vraiment à votre goût, donc modifier le si besoin !
+- Alors là, c'est vraiment à votre goût, donc modifier le si besoin !
 
 ---
 
@@ -259,7 +258,7 @@ Pour entrer dans le menu de configuration du mods, il faut être connecté sur l
 
 ## Conseils
 
-Si vous avez le moindre doutes sur un des options, passez sur le Discord.
+Si vous avez le moindre doute sur un des options, passez sur le Discord.
 
 > Et voilà, ce petit tutoriel est fini, j'espère que vous passerez votre meilleur temps sur le Skyblock !
 

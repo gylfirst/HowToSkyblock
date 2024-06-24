@@ -12,7 +12,7 @@ Je vous conseille d'installer certains mods pour jouer au Skyblock d'Hypixel, ce
 
 ## Liste de mods
 
-Je vous donne une liste de mods que je recommande. Si vous ne savez pas ce qu'ils font, n'hésitez pas à chercher sur Internet ou me demander sur Discord.
+Je vous donne une liste de mods que je recommande. Si vous ne savez pas ce qu'ils font, n'hésitez pas à chercher sur Internet ou à me demander sur Discord.
 
 - **Skyblock Only**
    - Dungeons Guide
@@ -40,7 +40,7 @@ Attention, si vous installez `Patcher`, il vous faut également `Essential`, car
 > Si des mods sont installés en dehors de ce menu, vous aurez une pop-up au moment de la vérification des mises à jour.  
 > Celle-ci permet de chercher si le mod est disponible sur Modrinth ou CurseForge,vous pouvez sélectionner "Tout passer" afin de ne pas en ajouter et de juste vérifier ceux qui ont été installé dans le menu du launcher.
 
-## Étapes pour Installer les mods
+## Étapes pour installer les mods
 
 ### 1. Télécharger les mods
 
@@ -52,16 +52,16 @@ Attention, si vous installez `Patcher`, il vous faut également `Essential`, car
 
 1. Sélectionner votre instance et cliquer sur "Modifier" à droite.
 2. Aller dans le menu "Mods" dans la liste à gauche.
-3. Cliquer sur le bouton "Ajouter un fichier" et sélectionner tout les mods dans votre dossier.
+3. Cliquer sur le bouton "Ajouter un fichier" et sélectionner tous les mods dans votre dossier.
 4. Cliquer sur le bouton "Ouvrir" et fermer la fenêtre.
 
-## Mettre à Jour les mods
+## Mettre à jour les mods
 
 ### 1. Identifier les Mods Obsolètes
 
-1. Pour les mods qui sont disponibles avec le ChouetteBot, vous pouvez refaire la commande `/skyblock mods` pour vérifier les version.
-2. Certains mods vous permettent de les mettre à jour automatiquement, donc faites les quand ils vous le signalent.
-3. Pour les autres, vous pouvez chercher sur Internet les dernières versions (la plupart des moddeurs ne sortent plus de MAJ pour cette version de Minecraft..)
+1. Pour les mods qui sont disponibles avec le ChouetteBot, vous pouvez refaire la commande `/skyblock mods` pour vérifier les versions.
+2. Certains mods vous permettent de les mettre à jour automatiquement, donc faites-les quand ils vous le signalent.
+3. Pour les autres, vous pouvez chercher sur Internet les dernières versions (la plupart des moddeurs ne sortent plus de MAJ pour cette version de Minecraft..).
 
 ### 2. Télécharger les dernières versions
 
