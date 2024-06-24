@@ -28,6 +28,8 @@ Je vous donne une liste de mods que je recommande. Si vous ne savez pas ce qu'il
    - [Scrollable Tooltips](https://sk1er.club/mods/text_overflow_scroll)
    - [Wavey Capes - CurseForge direct download](https://www.curseforge.com/minecraft/mc-mods/waveycapes/download/3769917)
 
+Attention, si vous installez `Patcher`, il vous faut également `Essential`, car ce mod est une dépendance d'`Essential`.
+
 > Pour les mods "Skyblock", vous aurez les liens pour les télécharger à jour avec la commande `/skyblock mods` dans le channel #bots du Discord.  
 > Pour les mods non "Skyblock", vous pouvez directement les télécharger depuis cette page. N'oubliez pas, vous voulez la version pour Minecraft FORGE 1.8.9 !
 
