@@ -6,7 +6,7 @@ Prism Launcher est un launcher Minecraft open-source, qui permet de gérer facil
 
 ## Prérequis
 
-1. **Java** : Assurez-vous que Java est installé sur votre ordinateur. Minecraft nécessite Java pour fonctionner.
+1. **Java** : Assurez-vous que Java est installé sur votre ordinateur. Minecraft nécessite Java pour fonctionner. Prenez une version `64 bits` pour votre ordinateur, sauf s'il a 32 ans. Vous pouvez la retrouver [ici](https://www.java.com/fr/download/manual.jsp).
 2. **Une Connexion Internet** : Évidemment, on ne va pas aller loin si vous n'avez pas Internet ! On se demande même comment vous êtes ici sans l'avoir...
 
 Pour la version de **Java**, il vous faut une des versions de Java 8. Cela est différent si vous compter jouer sur une version de Minecraft différente de la 1.8.9 (merci la foraging update...)
