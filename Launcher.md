@@ -1,6 +1,6 @@
 # Comment Installer Minecraft ?
 
-Pour ce qui est de l'installation de Minecraft, je vous conseille Prism Launcher. Je l'utilise depuis quelques années, et c'est un des déscendants du grand Multi-MC (projet existant depuis 2013).
+Pour ce qui est de l'installation de Minecraft, je vous conseille Prism Launcher. Je l'utilise depuis quelques années, et c'est un des descendants du grand Multi-MC (projet existant depuis 2013).
 
 Prism Launcher est un launcher Minecraft open-source, qui permet de gérer facilement plusieurs instances de Minecraft avec des profils et des mods. Vous avez aussi la possibilité de jouer à des modpacks directement depuis le launcher.
 
@@ -53,7 +53,7 @@ Cela va dépendre de votre distribution, dans le doute reportez vous [ici](https
 2. Ajoutez votre compte Minecraft en cliquant sur "Ajouter un compte" et en suivant les instructions pour vous connecter avec votre compte Microsoft.
 3. Allez faire un tour dans les paramètres pour vérifier vos options **Java**. Surtout la section "Memory" (pour l'allocation de la mémoire RAM) et le "Java Runtime" (version de **Java** qui va être utilisée).
 
-Pour l'allocation de la mémoire, je vous recommande d'avoir au moins 4 Go de RAM alouée à Minecraft. Pour cela, vous devez mettre `4096` MiB en "Maximum memory allocation". Pour la minimale, pas besoin d'y toucher.
+Pour l'allocation de la mémoire, je vous recommande d'avoir au moins 4 Go de RAM allouée à Minecraft. Pour cela, vous devez mettre `4096` MiB en "Maximum memory allocation". Pour la minimale, pas besoin d'y toucher.
 
 ---
 ### Choisir votre destinée
@@ -77,9 +77,9 @@ Une fois l'archive en votre possession, vous allez pouvoir suivre les étapes su
 3. Cliquez sur le bouton "Parcourir" puis sélectionnez l'archive et cliquer sur "Ouvrir".
 4. Donnez un nom à votre instance, par exemple "1.8.9 Skyblock".
 5. Cliquez sur le bouton "OK" pour créer l'instance.
-6. Lancez l'instance en la sélectionnant et appuyez sur le bonton "Lancer".
+6. Lancez l'instance en la sélectionnant et appuyez sur le bouton "Lancer".
 
-Et voilà ! Vous avez maintenant une instance pré-réglée prête à être utilisée. Vous pouvez aller voir les pages suivantes pour mettre à jour les mods si necéssaire et paramétrer votre jeu comme vous le souhaitez.
+Et voilà ! Vous avez maintenant une instance pré-réglée prête à être utilisée. Vous pouvez aller voir les pages suivantes pour mettre à jour les mods si nécessaire et paramétrer votre jeu comme vous le souhaitez.
 
 #### Créer une instance pour les mods
 
@@ -89,10 +89,10 @@ Maintenant que vous avez installé Prism Launcher, vous pouvez créer une instan
 
 1. Cliquez sur le bouton "Ajouter une Instance".
 2. Dans la fenêtre qui s'ouvre, sélectionnez "1.8.9" dans la liste déroulante des versions "Personnalisé".
-3. Selectionner "Forge" dans les "Chargeurs de Mod", puis sélectionner la version avec une étoile.
+3. Sélectionner "Forge" dans les "Chargeurs de Mod", puis sélectionner la version avec une étoile.
 4. Donnez un nom à votre instance, par exemple "1.8.9 Skyblock".
 5. Cliquez sur le bouton "OK" pour créer votre instance.
-6. Lancez l'instance en la sélectionnant et appuyez sur le bonton "Lancer" pour télécharger les fichiers du jeu.
+6. Lancez l'instance en la sélectionnant et appuyez sur le bouton "Lancer" pour télécharger les fichiers du jeu.
 
 Et voilà ! Vous avez maintenant une instance de Minecraft en version 1.8.9 prête à être utilisée.
 

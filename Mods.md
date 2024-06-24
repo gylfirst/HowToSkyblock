@@ -52,7 +52,7 @@ Attention, si vous installez `Patcher`, il vous faut également `Essential`, car
 
 1. Sélectionner votre instance et cliquer sur "Modifier" à droite.
 2. Aller dans le menu "Mods" dans la liste à gauche.
-3. Cliquer sur le bouton "Ajouter un fichier" et selectionner tout les mods dans votre dossier.
+3. Cliquer sur le bouton "Ajouter un fichier" et sélectionner tout les mods dans votre dossier.
 4. Cliquer sur le bouton "Ouvrir" et fermer la fenêtre.
 
 ## Mettre à Jour les mods
@@ -74,7 +74,7 @@ Attention, si vous installez `Patcher`, il vous faut également `Essential`, car
 
 # Installer un pack de textures
 
-Pour améliorer un peu l'expérience de jeu, on peut utiliser un pack de textures. Celui que nous utlisons avec @Zalko se trouve dans le channel #trucs-utiles, dans les messages épinglés. Vous y trouverez également le pack pour avoir l'interface en thème sombre.
+Pour améliorer un peu l'expérience de jeu, on peut utiliser un pack de textures. Celui que nous utilisons avec @Zalko se trouve dans le channel #trucs-utiles, dans les messages épinglés. Vous y trouverez également le pack pour avoir l'interface en thème sombre.
 
 > Il vous faudra **Optifine** pour les utiliser !
 
@@ -83,10 +83,10 @@ Pour améliorer un peu l'expérience de jeu, on peut utiliser un pack de texture
 1. Choisir son pack et le télécharger.
 2. Sélectionner votre instance et cliquer sur "Modifier" à droite.
 3. Aller dans le menu "Packs de ressources" dans la liste à gauche.
-4. Cliquer sur le bouton "Ajouter" et selectionner le pack.
+4. Cliquer sur le bouton "Ajouter" et sélectionner le pack.
 5. Cliquer sur le bouton "Ouvrir" et fermer la fenêtre.
 
-Voilà, votre pack de textures est installé, il faut maintenant le selectionner en jeu. Je vous explique comment faire sur la page suivante.
+Voilà, votre pack de textures est installé, il faut maintenant le sélectionner en jeu. Je vous explique comment faire sur la page suivante.
 
 ## Dépannage
 

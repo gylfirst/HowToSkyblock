@@ -147,7 +147,7 @@ Pour entrer dans le menu de configuration du mods, il faut être connecté sur l
 - Activer `Price info (inv)`
 - Activer `Price info (ah)`
 - Activer `Show reforge stats`
-- Activer `Missing echant list`
+- Activer `Missing enchant list`
 - Activer les options de `RNG Meter` ainsi que `Garden visitors`.
 
 #### Overlays
@@ -166,7 +166,7 @@ Pour entrer dans le menu de configuration du mods, il faut être connecté sur l
 - Activer `Show next click in chronomatron`
 
 #### Mining
-- Activer `Enable waypoints` et `Show possible blocks` dans "Metal Dector Solver"
+- Activer `Enable waypoints` et `Show possible blocks` dans "Metal Detector Solver"
 - Activer `Puzzler solver`
 - Activer `Titanium alert`
 - Activer `Mineshaft exit waypoint`
@@ -205,13 +205,13 @@ Pour entrer dans le menu de configuration du mods, il faut être connecté sur l
 
 ### Configurer Skyblock Addons
 
-Pour entrer dans le menu de configuration du mods, il faut être connecté sur le Skyblock et taper la commande `/sba` dans le tchat. Vous pouvez modfier l'emplacement des affichages en cliquant sur le bouton "Modifier l'interface" en bas à gauche, et changer la langue à droite.
+Pour entrer dans le menu de configuration du mods, il faut être connecté sur le Skyblock et taper la commande `/sba` dans le tchat. Vous pouvez modifier l'emplacement des affichages en cliquant sur le bouton "Modifier l'interface" en bas à gauche, et changer la langue à droite.
 
 - Activer `Minuteur du Jacob's Contest`
 - Activer `Afficher ce que le Fetchur veut aujourd'hui`
 - Activer `Affichage de la carte en donjon`
 - Activer `Alerte aucune flèche restante`
-- Activer `Alerte Zeakot spécial`
+- Activer `Alerte Zealot spécial`
 - Activer `Désactiver l'alerte "Location not perfect"`
 - Activer `Empêcher le clignotement de la vision nocturne`
 - Activer `Alerte oeil d'invocation`
